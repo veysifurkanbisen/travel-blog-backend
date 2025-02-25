@@ -1,0 +1,6 @@
+﻿services:
+  travelblog.api:
+    image: travelblog.api
+    build:
+      context: .
+      dockerfile: TravelBlog.API/Dockerfile
