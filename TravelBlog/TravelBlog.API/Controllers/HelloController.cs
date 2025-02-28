@@ -7,9 +7,11 @@ namespace TravelBlog.API.Controllers
     public class HelloController : ControllerBase
     {
         [HttpGet]
+        //[ApiExplorerSettings(IgnoreApi = true)]
         public IActionResult Get()
         {
-            return Ok(new { message = "Hello World from Travel Blog API!" });
+            var response = Ok(new { message = "Hello World from Travel Blog API!" });
+            return response;
         }
     }
 }
