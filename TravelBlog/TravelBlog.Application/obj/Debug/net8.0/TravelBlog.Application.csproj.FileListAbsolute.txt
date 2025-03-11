@@ -1,0 +1,16 @@
+/Users/veysi/Worspace/Personal/TravelBlog/travel-blog-backend/TravelBlog/TravelBlog.Application/bin/Debug/net8.0/TravelBlog.Application.deps.json
+/Users/veysi/Worspace/Personal/TravelBlog/travel-blog-backend/TravelBlog/TravelBlog.Application/bin/Debug/net8.0/TravelBlog.Application.dll
+/Users/veysi/Worspace/Personal/TravelBlog/travel-blog-backend/TravelBlog/TravelBlog.Application/bin/Debug/net8.0/TravelBlog.Application.pdb
+/Users/veysi/Worspace/Personal/TravelBlog/travel-blog-backend/TravelBlog/TravelBlog.Application/bin/Debug/net8.0/TravelBlog.Domain.dll
+/Users/veysi/Worspace/Personal/TravelBlog/travel-blog-backend/TravelBlog/TravelBlog.Application/bin/Debug/net8.0/TravelBlog.Domain.pdb
+/Users/veysi/Worspace/Personal/TravelBlog/travel-blog-backend/TravelBlog/TravelBlog.Application/obj/Debug/net8.0/TravelBlog.Application.csproj.AssemblyReference.cache
+/Users/veysi/Worspace/Personal/TravelBlog/travel-blog-backend/TravelBlog/TravelBlog.Application/obj/Debug/net8.0/TravelBlog.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/veysi/Worspace/Personal/TravelBlog/travel-blog-backend/TravelBlog/TravelBlog.Application/obj/Debug/net8.0/TravelBlog.Application.AssemblyInfoInputs.cache
+/Users/veysi/Worspace/Personal/TravelBlog/travel-blog-backend/TravelBlog/TravelBlog.Application/obj/Debug/net8.0/TravelBlog.Application.AssemblyInfo.cs
+/Users/veysi/Worspace/Personal/TravelBlog/travel-blog-backend/TravelBlog/TravelBlog.Application/obj/Debug/net8.0/TravelBlog.Application.csproj.CoreCompileInputs.cache
+/Users/veysi/Worspace/Personal/TravelBlog/travel-blog-backend/TravelBlog/TravelBlog.Application/obj/Debug/net8.0/TravelBlog.Application.sourcelink.json
+/Users/veysi/Worspace/Personal/TravelBlog/travel-blog-backend/TravelBlog/TravelBlog.Application/obj/Debug/net8.0/TravelBl.C56CA211.Up2Date
+/Users/veysi/Worspace/Personal/TravelBlog/travel-blog-backend/TravelBlog/TravelBlog.Application/obj/Debug/net8.0/TravelBlog.Application.dll
+/Users/veysi/Worspace/Personal/TravelBlog/travel-blog-backend/TravelBlog/TravelBlog.Application/obj/Debug/net8.0/refint/TravelBlog.Application.dll
+/Users/veysi/Worspace/Personal/TravelBlog/travel-blog-backend/TravelBlog/TravelBlog.Application/obj/Debug/net8.0/TravelBlog.Application.pdb
+/Users/veysi/Worspace/Personal/TravelBlog/travel-blog-backend/TravelBlog/TravelBlog.Application/obj/Debug/net8.0/ref/TravelBlog.Application.dll

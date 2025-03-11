@@ -1,0 +1,13 @@
+/Users/veysi/Worspace/Personal/TravelBlog/travel-blog-backend/TravelBlog/TravelBlog.Shared/bin/Debug/net8.0/TravelBlog.Shared.deps.json
+/Users/veysi/Worspace/Personal/TravelBlog/travel-blog-backend/TravelBlog/TravelBlog.Shared/bin/Debug/net8.0/TravelBlog.Shared.dll
+/Users/veysi/Worspace/Personal/TravelBlog/travel-blog-backend/TravelBlog/TravelBlog.Shared/bin/Debug/net8.0/TravelBlog.Shared.pdb
+/Users/veysi/Worspace/Personal/TravelBlog/travel-blog-backend/TravelBlog/TravelBlog.Shared/obj/Debug/net8.0/TravelBlog.Shared.csproj.AssemblyReference.cache
+/Users/veysi/Worspace/Personal/TravelBlog/travel-blog-backend/TravelBlog/TravelBlog.Shared/obj/Debug/net8.0/TravelBlog.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/veysi/Worspace/Personal/TravelBlog/travel-blog-backend/TravelBlog/TravelBlog.Shared/obj/Debug/net8.0/TravelBlog.Shared.AssemblyInfoInputs.cache
+/Users/veysi/Worspace/Personal/TravelBlog/travel-blog-backend/TravelBlog/TravelBlog.Shared/obj/Debug/net8.0/TravelBlog.Shared.AssemblyInfo.cs
+/Users/veysi/Worspace/Personal/TravelBlog/travel-blog-backend/TravelBlog/TravelBlog.Shared/obj/Debug/net8.0/TravelBlog.Shared.csproj.CoreCompileInputs.cache
+/Users/veysi/Worspace/Personal/TravelBlog/travel-blog-backend/TravelBlog/TravelBlog.Shared/obj/Debug/net8.0/TravelBlog.Shared.sourcelink.json
+/Users/veysi/Worspace/Personal/TravelBlog/travel-blog-backend/TravelBlog/TravelBlog.Shared/obj/Debug/net8.0/TravelBlog.Shared.dll
+/Users/veysi/Worspace/Personal/TravelBlog/travel-blog-backend/TravelBlog/TravelBlog.Shared/obj/Debug/net8.0/refint/TravelBlog.Shared.dll
+/Users/veysi/Worspace/Personal/TravelBlog/travel-blog-backend/TravelBlog/TravelBlog.Shared/obj/Debug/net8.0/TravelBlog.Shared.pdb
+/Users/veysi/Worspace/Personal/TravelBlog/travel-blog-backend/TravelBlog/TravelBlog.Shared/obj/Debug/net8.0/ref/TravelBlog.Shared.dll
